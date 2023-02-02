@@ -8,9 +8,10 @@ This is only for practical and research intension. Feel free to use it.
 
 > **_Creational_**:
 >
-> -   Factory
-> -   Builder
-> -   Prototype
+> -   Factory.
+> -   Builder.
+> -   Prototype.
+> -   Singleton.
 
 ## Build
 
@@ -27,3 +28,5 @@ This is only for practical and research intension. Feel free to use it.
 > <code>yarn builder</code>
 >
 > <code>yarn prototype</code>
+>
+> <code>yarn singleton</code>

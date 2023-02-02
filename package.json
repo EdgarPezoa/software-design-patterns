@@ -7,7 +7,8 @@
 		"build": "tsc",
 		"factory": "yarn build && node creational/factory.js",
 		"builder": "yarn build && node creational/builder.js",
-		"prototype": "yarn build && node creational/prototype.js"
+		"prototype": "yarn build && node creational/prototype.js",
+		"singleton": "yarn build && node creational/singleton.js"
 	},
 	"author": "",
 	"license": "ISC",
