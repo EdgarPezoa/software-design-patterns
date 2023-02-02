@@ -1,0 +1,15 @@
+{
+	"name": "software-design-patterns",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc",
+		"factory": "yarn build && node creational/factory.js",
+		"builder": "yarn build && node creational/builder.js",
+		"prototype": "yarn build && node creational/prototype.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {}
+}
