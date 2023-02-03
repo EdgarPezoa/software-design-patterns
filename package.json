@@ -5,10 +5,11 @@
 	"main": "index.js",
 	"scripts": {
 		"build": "tsc",
-		"factory": "yarn build && node creational/factory.js",
-		"builder": "yarn build && node creational/builder.js",
-		"prototype": "yarn build && node creational/prototype.js",
-		"singleton": "yarn build && node creational/singleton.js"
+		"factory": "yarn build && node app/creational/factory.js",
+		"builder": "yarn build && node app/creational/builder.js",
+		"prototype": "yarn build && node app/creational/prototype.js",
+		"singleton": "yarn build && node app/creational/singleton.js",
+		"adapter": "yarn build && node app/structural/adapter.js"
 	},
 	"author": "",
 	"license": "ISC",

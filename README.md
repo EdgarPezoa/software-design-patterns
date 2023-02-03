@@ -30,3 +30,7 @@ This is only for practical and research intension. Feel free to use it.
 > <code>yarn prototype</code>
 >
 > <code>yarn singleton</code>
+
+### Structural examples
+
+> <code>yarn adapter</code>
